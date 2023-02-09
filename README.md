@@ -61,10 +61,12 @@ body {
 <div class="clearfix">
   <div class="column menu">
     <ul>
-      <li>About</li>
-      <li>More Info</li>
-      <li>Links</li>
-      <li>Settings</li>
+      <li><div onclick="location.href='https://eztotype.github.io/About/';" >About</div>
+</li>
+      <li><div onclick="';" >More</div>
+</li>
+      <li><div onclick="';" >Why I made this project</div></li>
+      
     </ul>
   </div>
 
