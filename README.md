@@ -73,7 +73,7 @@ body {
   <div class="column content">
     <h1>World is changing for the worse because of excessive energy use</h1>
     <h4>With the huge amounts of energy being used, which is the main cause to global warming, scientists have discovered new ways to solve this problem.</h4>
-    <img id="Fusion" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ2JiK_avhhqAYthfayGzJ5VSw9eKAapUmJg&usqp=CAU" width= "225" height="149" class="center">
+    <img id="Fusion" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ2JiK_avhhqAYthfayGzJ5VSw9eKAapUmJg&usqp=CAU" width= "330" height="149" class="center">
     <p>According to a few researchers in NASA, if someone has incandescent and/or halogen lights, “only 10 percent of the energy they use goes toward light; the other 90 percent just generates heat.” In 2020 we used roughly 3 Trillion watts to power the world. 80% of that is fossil fuels, the other 20% are biofuels like wind and sun energy. Electricity demand is expected to increase by 80% by 2050. This is a problem because it causes global warming.</p>
     <p>Scientists have been trying to figure out how to find a better way to use nuclear power, a very good clean source of energy. So far they have been using fission, the process of a neutron slamming into a larger atom, forcing it to excite and split into two smaller atoms. Now, they have discovered a new process called fusion, where two light atoms bond together, or fuse, to make a heavier one and obtain a lot of energy. It's also the process that happens on the sun and other stars. This process might take a few decades to be put into use though.
 
