@@ -63,7 +63,7 @@ body {
     <ul>
       <li><div onclick="location.href='https://eztotype.github.io/About/';" >About</div>
 </li>
-      <li><div onclick="';" >More</div>
+      <li><div onclick="';" >Change theme</div>
 </li>
       <li><div onclick="';" >Why I made this project</div></li>
       
